@@ -1,1 +1,1 @@
-# docker-clojure
+# Simple Docker image to play with Clojure
